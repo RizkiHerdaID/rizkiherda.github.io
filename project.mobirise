@@ -358,7 +358,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1437419764061-2473afe69fc2-2000x1125-14.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -648,7 +648,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>Bangka VI Street<br>No. 5 Sumbersari<br>Jember, East Java<br>Indonesia",
+          "text1": "<strong>Address</strong><br>Bangka VI Street&nbsp;No. 5 Sumbersari<br>Jember, East Java<br>Indonesia",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: rizkiherda@gmail.com<br>\nMobile: +62 822 3436 7866<br></p>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"https://github.com/rizkiherda\" target=\"_blank\">Github Account</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"https://rizkiherda.wordpress.com/\" target=\"_blank\">Blog</a><br></p>"
         },
