@@ -183,8 +183,8 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "showArrow": true
+            "showButtons": false,
+            "showArrow": false
           },
           "media": {
             "image": {
@@ -213,7 +213,7 @@
           },
           "title": "I’m a Devigner&nbsp;",
           "text": "Web Developer and Web Designer<br>I can help you make an Awesome Website.<br>You can ask me for Redesign or make it from Scratch.<br>I can build Website for you Cat or for your Handicraft Shop.<br>Want to work together? I’d love to hear from you.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features3",
@@ -369,7 +369,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Bangka VI Street<br>No. 5 Sumbersari<br>Jember, East Java<br>Indonesia",
-          "text2": "<strong>Contacts</strong><br>\nEmail: rizkiherda@gmail.com<br>\nMobile: +62 822 3436 7866<br>",
+          "text2": "<p><strong>Contacts</strong><br>\nEmail: rizkiherda@gmail.com<br>\nMobile: +62 822 3436 7866<br></p>",
           "text3": "<p><strong>Links</strong><br>\n<a href=\"https://github.com/rizkiherda\" target=\"_blank\">Github Account</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"https://rizkiherda.wordpress.com/\" target=\"_blank\">Blog</a><br></p>"
         }
       ]
