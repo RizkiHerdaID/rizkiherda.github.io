@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "Rizki Herdatullah",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,14 +22,16 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 18,
-    "versionPublish": "3.10.4"
+    "versionPublish": "3.10.4",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Rizki Herdatullah",
+        "meta_descr": "Personal Website of Rizki Herdatullah",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
