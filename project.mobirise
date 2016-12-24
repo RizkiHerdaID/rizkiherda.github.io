@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 31,
+    "uniqCompNum": 34,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
@@ -459,8 +459,42 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "My Education &amp; Experiences",
-          "caption": "<p>I'm studying at Faculty of Computer Science under Information System Study Programme. Here we take responsible for the implementation of technology within an organisation and direct the work of systems and business analysts, developers, support specialists and other computer-related workers. D<span style=\"font-size: 1.07rem; line-height: 1.5;\">uties within the role are ultimately dependent on the employing organisation and the complexity of its information systems.</span></p>"
+          "title": "My Education",
+          "caption": "<p>I'm studying at Information System Study Programme under Faculty of Computer Science. Here we take responsible for the implementation of technology within an organisation and direct the work of systems and business analysts, developers, support specialists and other computer-related workers. D<span style=\"font-size: 1.07rem; line-height: 1.5;\">uties within the role are ultimately dependent on the employing organisation and the complexity of its information systems.</span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "My Experiences",
+          "text": "<p>Here are some of my journey to catch my dreams.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [

@@ -505,6 +505,10 @@ h6,
 #content5-u P {
   text-align: center;
 }
+#msg-box8-x .mbr-section-title,
+#msg-box8-x p {
+  color: #fff;
+}
 #features1-q .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
