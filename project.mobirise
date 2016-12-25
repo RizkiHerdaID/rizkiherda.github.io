@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "portofolio.html",
+    "currentPage": "index.html",
     "name": "Rizki Herdatullah",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 44,
+    "uniqCompNum": 72,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Rizki Herdatullah</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portofolio.html\">Portofolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -143,16 +143,16 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-reserve-6hjtlkjsdqjqle2nipeu-macbook-jpg-2000x1325-27.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1477305705862-1a13e08a16f5-2000x1122-6.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#281500",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -218,8 +218,8 @@
               "size": 250
             }
           },
-          "title": "I’m a Devigner&nbsp;",
-          "text": "Web Developer and Web Designer<br>I can help you make an Awesome Website.<br>You can ask me for Redesign or make it from Scratch.<br>I can build Website for you Cat or for your Handicraft Shop.<br>",
+          "title": "I’m a Web Devigner&nbsp;",
+          "text": "Web Developer and Web Designer<br>I can help you make an Awesome Website.<br>You can ask me for Redesign or make it from Scratch.<br>I can build Website for you Goverment Web-Application or for your Handicraft Shop.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -629,7 +629,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portofolio.html\" data-toolbar=\"-mbrBtnMove\">Click Me!</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"portofolio.html\" data-toolbar=\"-mbrBtnMove\">Go To Portofolio!</a>",
           "text": "I made easy for you to hire me. So I make my portofolio just for you.",
           "title": "Portofolio"
         },
@@ -664,6 +664,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "contacts1-h",
           "_params": {
             "paddingTop": 3,
@@ -694,12 +699,7 @@
           },
           "text1": "<strong>Address</strong><br>Bangka VI Street&nbsp;No. 5 Sumbersari<br>Jember, East Java<br>Indonesia",
           "text2": "<p><strong>Contacts</strong><br>\nEmail: rizkiherda@gmail.com<br>\nMobile: +62 822 3436 7866<br></p>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://github.com/rizkiherda\" target=\"_blank\">Github Account</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"https://rizkiherda.wordpress.com/\" target=\"_blank\">Blog</a><br></p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://github.com/rizkiherda\" target=\"_blank\">Github Account</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br>\n<a href=\"https://rizkiherda.wordpress.com/\" target=\"_blank\">Blog</a><br></p>"
         },
         {
           "_tags": [
@@ -817,7 +817,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Rizki Herdatullah</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portofolio.html\">Portofolio</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header1",
